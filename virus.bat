@@ -8,3 +8,5 @@ set count=0
 :loop
 for %%i in (%images%) do (
     start "" "%%i"  REM Abre la imagen con el visor predeterminado
+    echo Esperando que cierres la imagen...
+    timeout /t 1 >nul
