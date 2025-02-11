@@ -1,4 +1,6 @@
 @echo off
 setlocal enabledelayedexpansion
 
-set images=image1.jpg image2.jpg image3.jpg image4.jpg image5.jpg
+set images=imagen1.jpg imagen2.jpg imagen3.jpg imagen4.jpg imagen5.jpg
+
+set count=0
