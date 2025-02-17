@@ -16,6 +16,8 @@ for %%i in (%images%) do (
 if !count! GEQ 15 goto end  REM Termina después de 10 imágenes
 )
 
+echo tontito, te comiste un mondongo
+
 goto loop
 
 :end
