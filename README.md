@@ -1,1 +1,1 @@
-hola, el holaMundo.sh es la primera prueba. 
+Esto es un virus que hace falta descargarse todo, es totalmente educativo.
